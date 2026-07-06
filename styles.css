@@ -289,14 +289,14 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
   color: white;
   padding: 3px 8px;
   border-radius: 6px;
-  font-size: 07em;
+  font-size: 0.55em;
   font-weight: 900;
-  margin-left: 10px;
+  margin-left: 8px;
   vertical-align: middle;
   animation: pulse 1.5s infinite;
-  box-shadow: 0 0 20px #ff3e3e;
+  box-shadow: 0 0 10px #ff3e3e;
 }
 @keyframes pulse {
  0%, 100% { transform: scale(1); }
- 50% { transform: scale(1.15) rotate(-2deg); }
+ 50% { transform: scale(1.08) rotate(-2deg); }
 }
