@@ -300,7 +300,7 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
  0%, 100% { transform: scale(1); }
  50% { transform: scale(1.08) rotate(-2deg); }
 }
-.tagline {
+.tag {
   display: inline-block;
   padding: 8px 20px;
   border-radius: 50px;
