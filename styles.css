@@ -320,3 +320,12 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
    transform: scale(1.03);
  }
 }
+/* Saca el cuadro de LAS BANDIDAS */
+.brand-name, 
+header .brand-name,
+h1 .brand-name {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
