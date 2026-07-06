@@ -54,7 +54,7 @@ const OPTIONS = {
 // === Datos del menú ===
 const MENU = {
   "Hamburguesas": [
-    { name: "La Planchetta Clásica", desc: "Doble medallón, cheddar, lechuga, tomate y salsa de la casa.", price: "$8.900",  img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
+    { name: "La Planchetta Clásica", desc: "Doble medallón, cheddar, lechuga, tomate y salsa de la casa.", price: "$8.900",  img: "fotolaploanchetta.jpg" },
     { name: "Bacon Brutal",          desc: "Triple bacon, cheddar fundido.",                                price: "$10.500", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
     { name: "Smash Doble",           desc: "Dos smash patis, queso, y mostaza.",                            price: "$9.400",  img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
     { name: "La Picante",            desc: "Jalapeños, queso provolone, salsa y cebolla morada.",           price: "$9.800",  img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
