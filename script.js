@@ -60,9 +60,9 @@ const MENU = {
     { name: "La Picante",            desc: "Jalapeños, queso provolone, salsa y cebolla morada.",           price: "$9.800",  img: "assets/fotolaplanchetta.jpg" },
   ],
   "tragos": [
-    { name: "Flowerss",         desc: "vodka rasberry, vodka piña, almibar frutos rojos y sprite.", price: "$10.000", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
-    { name: "gin-paff",         desc: "gin, flyn paffs y sprite",                                    price: "$8.000",  img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
-    { name: "Fernet con Coca",  desc: "El clásico, bien cargado.",                                   price: "$7.000",  img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
+    { name: "Flowerss",         desc: "vodka rasberry, vodka piña, almibar frutos rojos y sprite.", price: "$10.000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "gin-paff",         desc: "gin, flyn paffs y sprite",                                    price: "$8.000",  img: "assets/fotolaplanchetta.jpg" },
+    { name: "Fernet con Coca",  desc: "El clásico, bien cargado.",                                   price: "$7.000",  img: "assets/fotolaplanchetta.jpg" },
   ],
   "Postres": [
     { name: "Tiramisu",        desc: "Postre italiano con crema de mascarpone y cafe",     price: "$7.500", img: "https://tinoxx010.github.io/LaPlacha/assets/tiramisu.jpg" },
@@ -70,22 +70,22 @@ const MENU = {
     { name: "Bombom Escoces",  desc: "Postre escoces helado, cobertura de chocolate con mani", price: "$4.000", img: "https://tinoxx010.github.io/LaPlacha/assets/bombom.jpg" },
   ],
   "papas": [
-    { name: "Papas onduladas con cheddar y bacon", desc: "Papas fritas con forma ondulada, bañadas en cheddar y bacon.", price: "$4.500", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
-    { name: "Salchipapa con cheddar",              desc: "Papas cubierta con queso cheddar fundido y trozos de salchicha.", price: "$5.000", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
-    { name: "Papas Especiales",                    desc: "Papas especiales con especias de la casa.",                       price: "$5.000", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
+    { name: "Papas onduladas con cheddar y bacon", desc: "Papas fritas con forma ondulada, bañadas en cheddar y bacon.", price: "$4.500", img: "assets/fotolaplanchetta.jpg" },
+    { name: "Salchipapa con cheddar",              desc: "Papas cubierta con queso cheddar fundido y trozos de salchicha.", price: "$5.000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "Papas Especiales",                    desc: "Papas especiales con especias de la casa.",                       price: "$5.000", img: "assets/fotolaplanchetta.jpg" },
   ],
   "Bebidas": [
-    { name: "Coca-Cola", desc: "La clásica bebida gaseosa.",     price: "$2.000", img: "https://tinoxx010.github.io/LaPlacha/assets/coca.jpg" },
-    { name: "Sprite",    desc: "refresco de sabor a lima-limón",  price: "$1.500", img: "https://tinoxx010.github.io/LaPlacha/assets/sprite.jpg" },
-    { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$3.500", img: "https://tinoxx010.github.io/LaPlacha/assets/MANAOS.jpg" },
+    { name: "Coca-Cola", desc: "La clásica bebida gaseosa.",     price: "$2.000", img: "assets/coca.jpg" },
+    { name: "Sprite",    desc: "refresco de sabor a lima-limón",  price: "$1.500", img: "assets/sprite.jpg" },
+    { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$3.500", img: "assets/MANAOS.jpg" },
   ],
   "Pizzas ": [
-    { name: "Muzzarella",  desc: "Pizza clásica con muzzarella y salsa de tomate.", price: "$6.000", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
-    { name: "Napolitana",  desc: "Pizza con muzzarella, tomate, ajo y albahaca.",   price: "$7.000", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
+    { name: "Muzzarella",  desc: "Pizza clásica con muzzarella y salsa de tomate.", price: "$6.000", img: "assets/fotolaploanchetta.jpg" },
+    { name: "Napolitana",  desc: "Pizza con muzzarella, tomate, ajo y albahaca.",   price: "$7.000", img: "assets/fotolaploanchetta.jpg" },
   ],
   "Promos": [
-    { name: "2 burguers y coca de 1,5L", desc: "2 burguers, Doble cheddar y una coca de 1,5L", price: "$30000", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
-    { name: "2 Muzzas",                  desc: "2 MUZZAS",                                     price: "$40000", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
+    { name: "2 burguers y coca de 1,5L", desc: "2 burguers, Doble cheddar y una coca de 1,5L", price: "$30000", img: "assets/fotolaploanchetta.jpg" },
+    { name: "2 Muzzas",                  desc: "2 MUZZAS",                                     price: "$40000", img: "assets/fotolaploanchetta.jpg" },
   ],
 };
 
