@@ -80,12 +80,12 @@ const MENU = {
     { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$3.500", img: "assets/MANAOS.jpg" },
   ],
   "Pizzas ": [
-    { name: "Muzzarella",  desc: "Pizza clásica con muzzarella y salsa de tomate.", price: "$6.000", img: "assets/fotolaploanchetta.jpg" },
-    { name: "Napolitana",  desc: "Pizza con muzzarella, tomate, ajo y albahaca.",   price: "$7.000", img: "assets/fotolaploanchetta.jpg" },
+    { name: "Muzzarella",  desc: "Pizza clásica con muzzarella y salsa de tomate.", price: "$6.000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "Napolitana",  desc: "Pizza con muzzarella, tomate, ajo y albahaca.",   price: "$7.000", img: "assets/fotolaplanchetta.jpg" },
   ],
   "Promos": [
-    { name: "2 burguers y coca de 1,5L", desc: "2 burguers, Doble cheddar y una coca de 1,5L", price: "$30000", img: "assets/fotolaploanchetta.jpg" },
-    { name: "2 Muzzas",                  desc: "2 MUZZAS",                                     price: "$40000", img: "assets/fotolaploanchetta.jpg" },
+    { name: "2 burguers y coca de 1,5L", desc: "2 burguers, Doble cheddar y una coca de 1,5L", price: "$30000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "2 Muzzas",                  desc: "2 MUZZAS",                                     price: "$40000", img: "assets/fotolaplanchetta.jpg" },
   ],
 };
 
