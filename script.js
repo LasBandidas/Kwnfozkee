@@ -54,10 +54,10 @@ const OPTIONS = {
 // === Datos del menú ===
 const MENU = {
   "Hamburguesas": [
-    { name: "La Planchetta Clásica", desc: "Doble medallón, cheddar, lechuga, tomate y salsa de la casa.", price: "$8.900",  img: "fotolaplanchetta.jpg" },
-    { name: "Bacon Brutal",          desc: "Triple bacon, cheddar fundido.",                                price: "$10.500", img: "fotolaplanchetta.jpg" },
-    { name: "Smash Doble",           desc: "Dos smash patis, queso, y mostaza.",                            price: "$9.400",  img: "fotolaplanchetta.jpg" },
-    { name: "La Picante",            desc: "Jalapeños, queso provolone, salsa y cebolla morada.",           price: "$9.800",  img: "fotolaplanchetta.jpg" },
+    { name: "La Planchetta Clásica", desc: "Doble medallón, cheddar, lechuga, tomate y salsa de la casa.", price: "$8.900",  img: "assets/fotolaplanchetta.jpg" },
+    { name: "Bacon Brutal",          desc: "Triple bacon, cheddar fundido.",                                price: "$10.500", img: "assets/fotolaplanchetta.jpg" },
+    { name: "Smash Doble",           desc: "Dos smash patis, queso, y mostaza.",                            price: "$9.400",  img: "assets/fotolaplanchetta.jpg" },
+    { name: "La Picante",            desc: "Jalapeños, queso provolone, salsa y cebolla morada.",           price: "$9.800",  img: "assets/fotolaplanchetta.jpg" },
   ],
   "tragos": [
     { name: "Flowerss",         desc: "vodka rasberry, vodka piña, almibar frutos rojos y sprite.", price: "$10.000", img: "https://tinoxx010.github.io/LaPlacha/assets/fotolaploanchetta.jpg" },
