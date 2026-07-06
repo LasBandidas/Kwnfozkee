@@ -284,3 +284,19 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
   .prod-img{aspect-ratio:16/10}
   .prod-body h3{font-size:1.75rem}
 }
+.lp-badge {
+  background: linear-gradient(45deg, #ff3e3e, #ffaa00);
+  color: white;
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 0.5em;
+  font-weight: 900;
+  margin-left: 6px;
+  vertical-align: super;
+  animation: pulse 1.5s infinite;
+  box-shadow: 0 0 12px #ff3e3e;
+}
+@keyframes pulse {
+ 0%, 100% { transform: scale(1); }
+ 50% { transform: scale(1.2) rotate(-5deg); }
+}
