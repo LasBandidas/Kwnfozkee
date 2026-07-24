@@ -59,13 +59,8 @@ const MENU = {
     { name: "Smash Doble",           desc: "Dos smash patis, queso, y mostaza.",                            price: "$9.400",  img: "assets/fotolaplanchetta.jpg" },
     { name: "La Picante",            desc: "Jalapeños, queso provolone, salsa y cebolla morada.",           price: "$9.800",  img: "assets/fotolaplanchetta.jpg" },
   ],
-  "tragos": [
-    { name: "Flowerss",         desc: "vodka rasberry, vodka piña, almibar frutos rojos y sprite.", price: "$10.000", img: "assets/fotolaplanchetta.jpg" },
-    { name: "gin-paff",         desc: "gin, flyn paffs y sprite",                                    price: "$8.000",  img: "assets/fotolaplanchetta.jpg" },
-    { name: "Fernet con Coca",  desc: "El clásico, bien cargado.",                                   price: "$7.000",  img: "assets/fotolaplanchetta.jpg" },
-  ],
   "Postres": [
-    { name: "Tiramisu",        desc: "Postre italiano con crema de mascarpone y cafe",     price: "$7.500", img: "https://tinoxx010.github.io/LaPlacha/assets/tiramisu.jpg" },
+    { name: "Budin de Pan",    desc: "Postre de pan",     price: "$7.500", img: "https://tinoxx010.github.io/LaPlacha/assets/tiramisu.jpg" },
     { name: "Chocotorta",      desc: "postre argentino que no falla jamas",                price: "$7.500", img: "https://tinoxx010.github.io/LaPlacha/assets/chocotorta.jpg" },
     { name: "Bombom Escoces",  desc: "Postre escoces helado, cobertura de chocolate con mani", price: "$4.000", img: "https://tinoxx010.github.io/LaPlacha/assets/bombom.jpg" },
   ],
@@ -78,10 +73,6 @@ const MENU = {
     { name: "Coca-Cola", desc: "La clásica bebida gaseosa.",     price: "$2.000", img: "assets/coca.jpg" },
     { name: "Sprite",    desc: "refresco de sabor a lima-limón",  price: "$1.500", img: "assets/sprite.jpg" },
     { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$3.500", img: "assets/MANAOS.jpg" },
-  ],
-  "Pizzas ": [
-    { name: "Muzzarella",  desc: "Pizza clásica con muzzarella y salsa de tomate.", price: "$6.000", img: "assets/fotolaplanchetta.jpg" },
-    { name: "Napolitana",  desc: "Pizza con muzzarella, tomate, ajo y albahaca.",   price: "$7.000", img: "assets/fotolaplanchetta.jpg" },
   ],
   "Promos": [
     { name: "2 burguers y coca de 1,5L", desc: "2 burguers, Doble cheddar y una coca de 1,5L", price: "$30000", img: "assets/fotolaplanchetta.jpg" },
