@@ -66,7 +66,7 @@ const MENU = {
     { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$2.500", img: "assets/MANAOS.jpg" },
   ],
   "Promos": [
-    { name: "2 burguers 4x4", desc: "2 burguers 4x4", price: "$20000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "2 burguers 4x4", desc: "2 burguers 4x4", price: "$20000", img: "assets/dobleburuguer.jpg" },
   ],
 };
 
