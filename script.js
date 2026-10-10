@@ -54,20 +54,15 @@ const OPTIONS = {
 // === Datos del menú ===
 const MENU = {
   "Hamburguesas": [
-    { name: "La Planchetta Clásica", desc: "Doble medallón, cheddar, lechuga, tomate y salsa de la casa.", price: "$8.900",  img: "assets/fotolaplanchetta.jpg" },
-    { name: "Bacon Brutal",          desc: "Triple bacon, cheddar fundido.",                                price: "$10.500", img: "assets/fotolaplanchetta.jpg" },
-    { name: "Smash Doble",           desc: "Dos smash patis, queso, y mostaza.",                            price: "$9.400",  img: "assets/fotolaplanchetta.jpg" },
-    { name: "La Picante",            desc: "Jalapeños, queso provolone, salsa y cebolla morada.",           price: "$9.800",  img: "assets/fotolaplanchetta.jpg" },
-  ],
-  "Postres": [
-    { name: "Budin de Pan",    desc: "Postre de pan",     price: "$7.500", img: "https://tinoxx010.github.io/LaPlacha/assets/tiramisu.jpg" },
-    { name: "Chocotorta",      desc: "postre argentino que no falla jamas",                price: "$7.500", img: "https://tinoxx010.github.io/LaPlacha/assets/chocotorta.jpg" },
-    { name: "Bombom Escoces",  desc: "Postre escoces helado, cobertura de chocolate con mani", price: "$4.000", img: "https://tinoxx010.github.io/LaPlacha/assets/bombom.jpg" },
+    { name: "La leal", desc: "Pan, lechuga, tomate, queso tybo, carne", price: "$13.000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "La colma",          desc: "Pan, bacon, cebolla caramelzada, cheddar, salsa BBQ", price: "$13.000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "La 4x4",           desc: "Pan, bacon, cheddar X4", price: "$13.000",  img: "assets/fotolaplanchetta.jpg" },
+    { name: "Botin completo",            desc: "1 unidad de cada hamburguesa del menu + papas + 2 Dips (1 de cheddar, 1 de BBQ) ", price: "$40.000",  img: "assets/fotolaplanchetta.jpg" },
   ],
   "papas": [
     { name: "Papas onduladas con cheddar y bacon", desc: "Papas fritas con forma ondulada, bañadas en cheddar y bacon.", price: "$4.500", img: "assets/fotolaplanchetta.jpg" },
     { name: "Salchipapa con cheddar",              desc: "Papas cubierta con queso cheddar fundido y trozos de salchicha.", price: "$5.000", img: "assets/fotolaplanchetta.jpg" },
-    { name: "Papas Especiales",                    desc: "Papas especiales con especias de la casa.",                       price: "$5.000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "Papas simples",                    desc: "Papas simples con especias de la casa.",                       price: "$5.000", img: "assets/fotolaplanchetta.jpg" },
   ],
   "Bebidas": [
     { name: "Coca-Cola", desc: "La clásica bebida gaseosa.",     price: "$2.000", img: "assets/coca.jpg" },
@@ -75,8 +70,7 @@ const MENU = {
     { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$3.500", img: "assets/MANAOS.jpg" },
   ],
   "Promos": [
-    { name: "2 burguers y coca de 1,5L", desc: "2 burguers, Doble cheddar y una coca de 1,5L", price: "$30000", img: "assets/fotolaplanchetta.jpg" },
-    { name: "2 Muzzas",                  desc: "2 MUZZAS",                                     price: "$40000", img: "assets/fotolaplanchetta.jpg" },
+    { name: "2 burguers 4x4", desc: "2 burguers 4x4", price: "$20000", img: "assets/fotolaplanchetta.jpg" },
   ],
 };
 
