@@ -16,15 +16,13 @@ stripTrack.innerHTML = stripHTML + stripHTML;
 const OPTIONS = {
   "Hamburguesas": {
     extras: [
-      { id: "doble_carne",  label: "Doble carne",   price: 800 },
-      { id: "triple_carne", label: "Triple carne",  price: 1500 },
-      { id: "extra_queso",  label: "Extra queso",   price: 400 },
+      { id: "Triple_carne",  label: "Triple carne",   price: 800 },
+      { id: "Cuatruple_carne", label: "Cuatruple carne",  price: 1500 },
     ],
     sauces: [
       { id: "cheddar_extra", label: "Cheddar extra",     price: 200 },
       { id: "bbq",           label: "Salsa BBQ",         price: 200 },
       { id: "picante",       label: "Salsa picante",     price: 200 },
-      { id: "ajo",           label: "Mayonesa de ajo",   price: 200 },
     ],
   },
   "papas": {
@@ -38,12 +36,11 @@ const OPTIONS = {
       { id: "cheddar_extra", label: "Cheddar extra",   price: 200 },
       { id: "bbq",           label: "Salsa BBQ",       price: 200 },
       { id: "picante",       label: "Salsa picante",   price: 200 },
-      { id: "ajo",           label: "Mayonesa de ajo", price: 200 },
     ],
   },
   "Bebidas": {
     extras: [
-      { id: "hielo", label: "Bolsa de hielo", price: 800 },
+      { id: "hielo", label: "Hielo", price: 800 },
       { id: "vaso",  label: "Vaso descartable extra", price: 150 },
     ],
     sauces: [],
@@ -325,7 +322,7 @@ document.getElementById("prodAdd").onclick = () => {
 };
 
 // === WhatsApp ===
-const waText = "Hola! Me gustaría hacer un pedido en Las Bandidas 🍔";
+const waText = "Hola! Me gustaría hacer un pedido en Las Bandidas🍔";
 document.getElementById("waBtn").href =
   `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(waText)}`;
 
@@ -337,7 +334,7 @@ document.getElementById("cartSend").onclick = () => {
   }).join("\n");
   const total = cart.reduce((s, i) => s + i.price * i.qty, 0);
   const msg =
-`Hola! Quiero hacer este pedido en Las Bandidas 🍔
+`Hola! Quiero hacer este pedido en Las Bandidas🍔
 
 ${lines}
 
