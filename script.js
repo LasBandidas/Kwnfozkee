@@ -16,26 +16,26 @@ stripTrack.innerHTML = stripHTML + stripHTML;
 const OPTIONS = {
   "Hamburguesas": {
     extras: [
-      { id: "Triple_carne",  label: "Triple carne",   price: 800 },
-      { id: "Cuatruple_carne", label: "Cuatruple carne",  price: 1500 },
+      { id: "Triple_carne",  label: "Triple carne",   price: 2500 },
+      { id: "Cuatruple_carne", label: "Cuatruple carne",  price: 4000 },
     ],
     sauces: [
-      { id: "cheddar_extra", label: "Cheddar extra",     price: 200 },
-      { id: "bbq",           label: "Salsa BBQ",         price: 200 },
-      { id: "picante",       label: "Salsa picante",     price: 200 },
+      { id: "cheddar_extra", label: "Cheddar extra",     price: 400 },
+      { id: "bbq",           label: "Salsa BBQ",         price: 400 },
+      { id: "picante",       label: "Salsa picante",     price: 400 },
     ],
   },
   "papas": {
     extras: [
-      { id: "doble_cheddar", label: "Doble cheddar", price: 600 },
-      { id: "doble_bacon",   label: "Doble bacon",   price: 700 },
-      { id: "extra_papas",   label: "Porción extra de papas", price: 900 },
-      { id: "cebolla_car",   label: "Cebolla caramelizada",   price: 400 },
+      { id: "doble_cheddar", label: "Doble cheddar", price: 1000 },
+      { id: "doble_bacon",   label: "Doble bacon",   price: 1000 },
+      { id: "extra_papas",   label: "Porción extra de papas", price: 1000 },
+      { id: "cebolla_car",   label: "Cebolla caramelizada",   price: 500 },
     ],
     sauces: [
-      { id: "cheddar_extra", label: "Cheddar extra",   price: 200 },
-      { id: "bbq",           label: "Salsa BBQ",       price: 200 },
-      { id: "picante",       label: "Salsa picante",   price: 200 },
+      { id: "cheddar_extra", label: "Cheddar extra",   price: 1000 },
+      { id: "bbq",           label: "Salsa BBQ",       price: 1000 },
+      { id: "picante",       label: "Salsa picante",   price: 1000 },
     ],
   },
   "Bebidas": {
