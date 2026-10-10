@@ -63,9 +63,7 @@ const MENU = {
     { name: "Papas simples",                    desc: "Papas simples con especias de la casa.",                       price: "$5.000", img: "assets/fotolaplanchetta.jpg" },
   ],
   "Bebidas": [
-    { name: "Coca-Cola", desc: "La clásica bebida gaseosa.",     price: "$2.000", img: "assets/coca.jpg" },
-    { name: "Sprite",    desc: "refresco de sabor a lima-limón",  price: "$1.500", img: "assets/sprite.jpg" },
-    { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$3.500", img: "assets/MANAOS.jpg" },
+    { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$2.500", img: "assets/MANAOS.jpg" },
   ],
   "Promos": [
     { name: "2 burguers 4x4", desc: "2 burguers 4x4", price: "$20000", img: "assets/fotolaplanchetta.jpg" },
