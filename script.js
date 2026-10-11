@@ -51,7 +51,7 @@ const OPTIONS = {
 // === Datos del menú ===
 const MENU = {
   "Hamburguesas": [
-    { name: "La leal", desc: "Pan, Lechuga, Tomate, Queso tybo, Carne", price: "$13.000", img: "assets/laleal.jpg" },
+    { name: "La leal", desc: "Pan, Lechuga, Tomate, Carne", price: "$13.000", img: "assets/laleal.jpg" },
     { name: "La coima",          desc: "Pan, Bacon, Cebolla caramelzada, Cheddar, Salsa BBQ", price: "$13.000", img: "assets/lacoima.jpg" },
     { name: "La 4x4",           desc: "Pan, Bacon, Cheddar X4", price: "$13.000",  img: "assets/la4x4.jpg" },
     { name: "Botin completo",            desc: "1 unidad De Cada Hamburguesa Del Menu + Papas + 2 Dips (1 de cheddar, 1 de BBQ) ", price: "$40.000",  img: "assets/botincompleto.jpg" },
