@@ -51,11 +51,10 @@ const OPTIONS = {
 // === Datos del menú ===
 const MENU = {
   "Hamburguesas": [
-    { name: "La leal", desc: "Pan, Lechuga, Tomate, Carne", price: "$13.000", img: "assets/laleal.jpg" },
-    { name: "La coima",          desc: "Pan, Bacon, Cebolla caramelizada, Cheddar, Salsa BBQ", price: "$13.000", img: "assets/lacoima.jpg" },
+    { name: "La leal", desc: "Pan, Lechuga, Tomate, Carne", price: "$12.500", img: "assets/laleal.jpg" },
+    { name: "La coima",          desc: "Pan, Bacon, Cebolla caramelizada, Cheddar, Salsa BBQ", price: "$13.500", img: "assets/lacoima.jpg" },
     { name: "La 4x4",           desc: "Pan, Bacon, Cheddar X4", price: "$13.000",  img: "assets/la4x4.jpg" },
-    { name: "La cuarto atraco", desc: "Pan, Cheddar, Ketchup, Mostaza, Cebolla cortada, Pepinillos Agridulces", price: "$13.000", img: "assets/lacuartoatraco.jpg" },
-    { name: "Botin completo",            desc: "1 unidad De Cada Hamburguesa Del Menu + Papas + 2 Dips (1 de cheddar, 1 de BBQ) ", price: "$40.000",  img: "assets/botincompleto.jpg" },
+    { name: "La cuarto atraco", desc: "Pan, Cheddar, Ketchup, Mostaza, Cebolla cortada, Pepinillos Agridulces", price: "$14.500", img: "assets/lacuartoatraco.jpg" },
   ],
   "papas": [
     { name: "Papas onduladas con cheddar y bacon", desc: "Papas fritas con forma ondulada, bañadas en cheddar y bacon.", price: "$4.500", img: "assets/fotolaplanchetta.jpg" },
@@ -67,6 +66,7 @@ const MENU = {
   ],
   "Promos": [
     { name: "2 burguers 4x4", desc: "2 burguers 4x4", price: "$20000", img: "assets/dobleburuger.jpg" },
+    { name: "Botin completo",            desc: "1 unidad De Cada Hamburguesa Del Menu + Papas + 2 Dips (1 de cheddar, 1 de BBQ) ", price: "$40.000",  img: "assets/botincompleto.jpg" },
   ],
 };
 
