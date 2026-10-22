@@ -62,7 +62,7 @@ const MENU = {
     { name: "Papas simples",                    desc: "Papas simples con especias de la casa.",                       price: "$5.000", img: "assets/fotolaplanchetta.jpg" },
   ],
   "Bebidas": [
-    { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$2.500", img: "assets/MANAOS.jpg" },
+    { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "3.000", img: "assets/MANAOS.jpg" },
   ],
   "Promos": [
     { name: "2 burguers 4x4", desc: "2 burguers 4x4, viene con porcion de papas sazonadas", price: "$20000", img: "assets/dobleburuger.jpg" },
