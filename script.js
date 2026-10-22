@@ -65,7 +65,7 @@ const MENU = {
     { name: "Manaos",    desc: "cola, lima y pomelo.",            price: "$2.500", img: "assets/MANAOS.jpg" },
   ],
   "Promos": [
-    { name: "2 burguers 4x4", desc: "2 burguers 4x4", price: "$20000", img: "assets/dobleburuger.jpg" },
+    { name: "2 burguers 4x4", desc: "2 burguers 4x4, viene con porcion de papas sazonadas", price: "$20000", img: "assets/dobleburuger.jpg" },
     { name: "Botin completo",            desc: "1 unidad De Cada Hamburguesa Del Menu + Papas + 2 Dips (1 de cheddar, 1 de BBQ) ", price: "$40.000",  img: "assets/botincompleto.jpg" },
   ],
 };
